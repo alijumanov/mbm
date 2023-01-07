@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.77014d18.css",
+    "main.js": "/static/js/main.7c74f5b2.js",
+    "static/media/header-back.jpg": "/static/media/header-back.49c1986f0b663aba9538.jpg",
+    "static/media/about.jpg": "/static/media/about.6e5d59f97c475dc3d154.jpg",
+    "static/media/about1.jpg": "/static/media/about1.068a6f92061deff37d09.jpg",
+    "static/media/about2.jpg": "/static/media/about2.5d39bdd5530725bf9fe4.jpg",
+    "static/media/infografic.png": "/static/media/infografic.83ab1e104fd3901bed94.png",
+    "static/media/advantage.jpg": "/static/media/advantage.0d4164798ac86ba5005b.jpg",
+    "static/media/contact.jpg": "/static/media/contact.2ecdebbc01746de8aa56.jpg",
+    "static/media/news.png": "/static/media/news.690d328db6e188591346.png",
+    "static/media/serv1.png": "/static/media/serv1.6988e174b50976433bff.png",
+    "static/media/serv5.png": "/static/media/serv5.11ec628e4ebc7afcff9c.png",
+    "static/media/serv3.png": "/static/media/serv3.1e3ff06a76ba6c4d19bb.png",
+    "static/media/serv6.png": "/static/media/serv6.06e91521faa6e68c515e.png",
+    "static/media/animationtruck.png": "/static/media/animationtruck.18d569f7c0f13af7bca7.png",
+    "static/media/play.png": "/static/media/play.0cde0e898eecaee9ed86.png",
+    "static/media/serv4.png": "/static/media/serv4.b13f908d9f1913f98b9e.png",
+    "static/media/serv2.png": "/static/media/serv2.a86e353e8f6a004f3280.png",
+    "static/media/zonapro.ttf": "/static/media/zonapro.61c5fe8dd34ded2c8e53.ttf",
+    "static/media/zonapro1.ttf": "/static/media/zonapro1.2f2229f01ae7b35cd628.ttf",
+    "static/media/partner4.png": "/static/media/partner4.9a7a5e94e50c47ecb49a.png",
+    "static/media/info2.png": "/static/media/info2.4fbac7eb70a07181e398.png",
+    "static/media/partner1.png": "/static/media/partner1.66aa7c9d9084bda03700.png",
+    "static/media/notification.png": "/static/media/notification.54c1e35679016c05d6f3.png",
+    "static/media/comment1.png": "/static/media/comment1.3ab8626502eff918df22.png",
+    "static/media/comment2.png": "/static/media/comment2.dd180271ce6b337740ad.png",
+    "static/media/partner3.png": "/static/media/partner3.bd04cca63a69dd057c97.png",
+    "index.html": "/index.html",
+    "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.77014d18.css.map": "/static/css/main.77014d18.css.map",
+    "main.7c74f5b2.js.map": "/static/js/main.7c74f5b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77014d18.css",
+    "static/js/main.7c74f5b2.js"
+  ]
+}
